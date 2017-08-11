@@ -1,8 +1,4 @@
-Demo: [http://webjeda.com/gatok](http://webjeda.com/gatok)
+Blog Site: [http://onycom-ankus.github.io(http://onycom-ankus.github.io)
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+##onycom ankus technical blog 
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
