@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class="mt50"></div>
 
-Webjeda Gatok is a Bootstrap based theme. Any Bootstrap element can be used in the theme.
+onycom-ankus is ONYCOM,INC. BigData Platform brand name is ANKUS (brand : ankus)
 
 The name Gatok is a short form of [Ghatotkacha](https://en.wikipedia.org/wiki/Ghatotkacha){: target="_blank"} who was a monster in the Hindu mythology Mahabharatha.
 
